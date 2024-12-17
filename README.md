@@ -8,7 +8,6 @@ Este site serve como um guia turístico virtual para visitantes interessados em 
 
 - Principais pontos turísticos
 - Cultura local
-- Gastronomia tradicional
 - Informações práticas para viajantes
 - Galeria de fotos da cidade
 
@@ -20,10 +19,8 @@ Este site serve como um guia turístico virtual para visitantes interessados em 
 
 ## 💻 Funcionalidades
 
-- Navegação intuitiva entre as seções
 - Galeria de imagens interativa
 - Layout responsivo para diferentes dispositivos
-- Mapa interativo dos pontos turísticos
 - Informações detalhadas sobre cada local
 
 ## 💻 Como Visualizar
