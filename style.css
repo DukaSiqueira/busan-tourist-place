@@ -61,3 +61,14 @@ h2 + p {
   color: #333333;
   margin-bottom: 64px;
 }
+
+li {
+  font-size: 28px;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 28px;
+  font-weight: bold;
+  margin-top: 20px;
+}
