@@ -127,3 +127,12 @@ li ul li {
 .bullet-orange {
   color: #E95E10;
 }
+
+div + p {
+  margin-top: 24px;
+  text-align: center;
+  font-size: 16px;
+  color: #333333;
+  line-height: 1.8;
+  padding: 0px 40px;
+}
