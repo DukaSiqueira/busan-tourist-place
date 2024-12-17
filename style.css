@@ -81,6 +81,10 @@ p + p {
   font-weight: bold;
 }
 
+ol {
+  padding: 30px;
+}
+
 ol > li {
   font-size: 28px;
   font-weight: bold;
